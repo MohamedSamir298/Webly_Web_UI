@@ -1,16 +1,21 @@
-# webly_app
+# Flutter Responsive Web Experiment
 
-A new Flutter project.
+**Experience the live version:** 
+https://webly-test.web.app/
+---
 
-## Getting Started
+## 📱 Project Overview
+A practical experiment exploring responsive UI design in Flutter Web, focusing on:
+- Adaptive layout strategies
+- Cross-device compatibility
+- Interactive web components
 
-This project is a starting point for a Flutter application.
+**Note:** This is a prototype - code structure prioritizes experimentation over production standards.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+- Responsive navigation menu
+- Dynamic content reorganization
+- Device-specific UI variations
+- Live screen size detection
